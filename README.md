@@ -19,7 +19,7 @@ The Atom GitHub package provides Git and GitHub integration for Atom. Check out 
 
 This package is bundled with Atom starting in version 1.18, and does not need to be installed separately.
 
-## License
+## License Xzcolp AI
 
 The MIT license grant is not for GitHub's trademarks, which include the logo designs. GitHub reserves all trademark and copyright rights in and to all GitHub trademarks.
 
